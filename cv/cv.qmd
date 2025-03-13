@@ -47,6 +47,8 @@ csl: apa-cv.csl
 
 *Statistics & Data Science and Communications Double Major*
 
+**Villa Maria Academy High School** \hfill 2017-2021
+
 # Relevant Courses
 
 - Programming with R 
