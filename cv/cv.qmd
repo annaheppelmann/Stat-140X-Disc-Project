@@ -1,0 +1,95 @@
+---
+title: CV
+format:
+  quarto-cv-pdf: default
+author: Anna Heppelmann
+date: last-modified
+# phone: 123-456-7890
+# address: "Guinness Brewery · Park Royal · London NW10 7RR, UK"
+email: aheppelmann1@gmail.com
+fontsize: 11pt
+github: Anna Heppelmann # github account
+orcid: 0000-0002-1825-0097 # orcid identifier
+# web: quarto.org
+fontawesome: yes
+nocite: '@*'
+bibliography: 
+  peer: peer_bib.bib
+  other: other_bib.bib
+validate-yaml: false
+csl: apa-cv.csl
+---
+
+# Work Experience 
+
+**Madison Square Garden Entertainment**
+
+*Insights and Analytics Student Associate* \hfill June-August 2024
+
+- Wrote original SQL queries for large data sets to automate decisions for the HR team
+- Constructed dashboards in Tableau, comprising of aesthetic graphs to optimize data analysis
+- Created a framework in excel to check discrepancies between dashboards and data sets, which allowed for more efficient spot-checks 
+- Provided key performance indicators such as employee activity that drove profitability for stakeholders 
+- One of 50 interns selected from 14,000 applications; collaborated with associates across departments to present a capstone project to senior management, showcasing how various departments collaborate to make MSG successful
+
+
+**Christina Relations**
+
+*Public Relations Intern* \hfill January-April 2023
+
+- Conducted market research identifying client opportunities and presented findings to firm founders 
+- Built a custom excel template to track reach-outs and interaction with clients across a wide range of industries
+- Produced press releases for clients highlighting their recent successes and created pitch books for prospective clients
+
+# Education
+
+**University of California, Los Angeles** \hfill 2021-2025
+
+*Statistics & Data Science and Communications Double Major*
+
+# Relevant Courses
+
+- Programming with R 
+- Calculus of Several Variables I and II
+- Data Analysis and Regression 
+- Linear Algebra 
+- Mathematical Statistics
+- Statistical Models and Data Mining 
+- Design and Analysis of Experiment 
+- Communication Technology and Digital Systems 
+
+\newpage
+
+# Projects 
+
+**Kaggle Competition: Obesity Status Prediction** \hfill December 2024
+
+* Data Analyst* 
+
+- Utilized a training set consisting of 32,000 observations with 29 total predictors and cleaned data 
+- Selected the best predictors using various methods, such as the BIC, for variable selection and found the VIF
+- Ultimately used a Random Forest model with 10 trees, receiving a final r-squared score of 0.96 for the testing dataset 
+
+**Report and Website: Covid-19’s Impact on Youth Education** \hfill July 2023
+
+*Researcher and Data Visualization Specialist* 
+
+- Cleaned data consisting of 33,000 entries and over 25 predictors to highlight Covid-19’s impact on education 
+- Created interactive maps and graphs in Tableau along with a written report analyzing the findings 
+- Utilized wireframe to build an user-friendly website that was featured on the UCLA Digital Humanities page 
+
+# Additional Information 
+
+**Coding Languages** 
+
+- SQL, R, Python 
+
+**Technical Skills**
+
+- Microsoft Office, Tableau, Adobe InDesign and Photoshop 
+
+**Certifications**
+
+- Bloomberg Market Concepts (BMC), Columbia University’s Introduction to Python 
+
+
